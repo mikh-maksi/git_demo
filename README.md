@@ -26,7 +26,7 @@
 4. git add .
 5. git comit -m first 
 6. heroku create app_name
-7. get remote -v
+7. git remote -v
 8. git push heroku master
 9. heroku ps
 10. heroku ps:scale worker=1
