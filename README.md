@@ -19,3 +19,14 @@
 * Далее - в git bash напишите
 * git add .
 * git commit -m first_commit
+## Как работать с Gheroku
+1. Ставим Heroku cli
+2. Логинемся на Heroku login
+3. Создаем файлы 
+4. git add .
+5. git comit -m first 
+6. heroku create app_name
+7. get remote -v
+8. git push heroku master
+9. heroku ps
+10. heroku ps:scale worker=1
