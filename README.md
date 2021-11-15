@@ -23,10 +23,11 @@
 1. Ставим Heroku cli
 2. Логинемся на Heroku login
 3. Создаем файлы 
-4. git add .
-5. git comit -m first 
-6. heroku create app_name
-7. git remote -v
-8. git push heroku master
-9. heroku ps
-10. heroku ps:scale worker=1
+4. git init
+5. git add .
+6. git comit -m first 
+7. heroku create app_name
+8. git remote -v
+9. git push heroku master
+10. heroku ps
+11. heroku ps:scale worker=1
