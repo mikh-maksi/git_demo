@@ -22,7 +22,7 @@
 ## Как работать с Gheroku
 1. Ставим Heroku cli
 2. Логинемся на Heroku login
-3. Создаем файлы 
+3. Создаем файлы <a href = "https://github.com/mikh-maksi/git_demo/blob/main/Procfile">Procfile</a> , <a href = "https://github.com/mikh-maksi/git_demo/blob/main/requirements.txt">requirements.txt</a>, <a href = "https://github.com/mikh-maksi/git_demo/blob/main/runtime.txt">runtime.txt</a>
 4. git init
 5. git add .
 6. git comit -m first 
